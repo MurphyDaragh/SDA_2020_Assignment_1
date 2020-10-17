@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SDA 2020 Assignment 1</string>
+    <string name="name_daragh_murphy">Name: Daragh Murphy</string>
+    <string name="student_id_369369369">Student ID: 369369369</string>
+    <string name="button">Button</string>
+    <string name="press_me">Press Me</string>
+    <string name="mess_toast">You pressed the button.</string>
+</resources>
